@@ -2,7 +2,7 @@
   "name": "library",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Jester0996.github.io/library15",
+  "homepage": "https://Jester0996.github.io/libraryGravity",
   "dependencies": {
     "@gravity-ui/date-utils": "^2.6.0",
     "@gravity-ui/icons": "^2.16.0",

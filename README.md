@@ -13,6 +13,6 @@
 ### 1. Клонировать проект
 
 ```bash
-git clone  https://github.com/Jester0996/library.git
+git clone
 cd digital-library
 ```

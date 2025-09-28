@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/libraryGravity/static/css/main.6ca45d63.css",
+    "main.js": "/libraryGravity/static/js/main.1ed4d963.js",
+    "index.html": "/libraryGravity/index.html",
+    "main.6ca45d63.css.map": "/libraryGravity/static/css/main.6ca45d63.css.map",
+    "main.1ed4d963.js.map": "/libraryGravity/static/js/main.1ed4d963.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ca45d63.css",
+    "static/js/main.1ed4d963.js"
+  ]
+}
